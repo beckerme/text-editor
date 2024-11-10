@@ -1,6 +1,6 @@
-name: Continuos Integration
+name: Continuos Integration # nome do workflow
 
-on: pull_request
+on: pull_request # evento que dispara o workflow
 
 jobs:
   continuos-integration:
